@@ -5,8 +5,8 @@
 
 <iframe src="https://player.vimeo.com/video/380949110" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Website:
-https://legendwebsite.herokuapp.com
+<p>Website:
+https://legendwebsite.herokuapp.com</p>
 
-Design:
-https://www.figma.com/file/GAODemxeaRy6nqEIvIz3BtAi/Legend?node-id=0%3A1
+<p>Design:
+https://www.figma.com/file/GAODemxeaRy6nqEIvIz3BtAi/Legend?node-id=0%3A1</p>
