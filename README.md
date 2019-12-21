@@ -1,5 +1,11 @@
-# Legend
-Senior project, Legend Martial Arts Academy website\
+
+## Legend Martial Arts Academy Website
+<p>Senior project team rebuilt a website for a local martial arts studio with added features such as user and admin accounts. </p>
+<p>We used NodeJS, Mongo, JQuery and Express as our tech stack. </p>
+
+<iframe src="https://player.vimeo.com/video/380949110" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Website Link
 https://legendwebsite.herokuapp.com
 
 Design:
